@@ -10,7 +10,7 @@ def tk(link):
 	querystring = {"url": link}
 
 	headers = {
-		"X-RapidAPI-Key": "yourApiKey", #go to rapidapi.com to get Api
+		"X-RapidAPI-Key": "3f7b85e600msh163785d28acda05p113d81jsncbb31efb5ffc", #go to rapidapi.com to get Api
 		"X-RapidAPI-Host": "tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com"
 	}
 
