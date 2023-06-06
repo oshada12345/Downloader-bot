@@ -30,7 +30,7 @@ def yt(link1):
     querystring = {"videoId": video_id(link1)}
 
     headers = {
-		"X-RapidAPI-Key": "yourRapidApi", #go to rapidapi.com to get ApiKey
+		"X-RapidAPI-Key": "3f7b85e600msh163785d28acda05p113d81jsncbb31efb5ffc", #go to rapidapi.com to get ApiKey
 		"X-RapidAPI-Host": "youtube-media-downloader.p.rapidapi.com"
 	}
 
